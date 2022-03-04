@@ -1,4 +1,4 @@
 SELECT country_code, indicator_name, value
 FROM `bigquery-public-data.world_bank_wdi.indicators_data`
 where country_code = 'IND' 
-and indicator_name like '%energy%' LIMIT 1000
+and indicator_name like '%energy%'
