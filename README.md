@@ -25,3 +25,15 @@ Query 6: Employment in agriculture (% of total employment) from 1991- 2019
 
 ![Screen Shot 2022-03-04 at 11 00 02 PM](https://user-images.githubusercontent.com/100203113/156812987-ee3faa17-7c36-4812-bd11-7e29dc3548db.png)
 
+query 7: Country code - currency join 
+
+![Screen Shot 2022-03-04 at 11 12 54 PM](https://user-images.githubusercontent.com/100203113/156816271-089b66d1-0243-4c07-bb13-b9669a4b51a6.png)
+
+
+
+
+Query 9: Country code - country name join 
+![Screen Shot 2022-03-04 at 11 21 53 PM](https://user-images.githubusercontent.com/100203113/156816171-fd2aec8e-b327-4eb2-9f30-58318871d7ba.png)
+
+
+
