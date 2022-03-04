@@ -20,3 +20,8 @@ Query 4: India's Energy import from 1971-2014
 Query 5: Filtering all the agriculture indicators for India 
 
 ![Screen Shot 2022-03-04 at 10 49 30 PM](https://user-images.githubusercontent.com/100203113/156811255-999d22c2-3b56-4619-bb4e-5119c1f0c229.png)
+
+Query 6: Employment in agriculture (% of total employment) from 1991- 2019 
+
+![Screen Shot 2022-03-04 at 11 00 02 PM](https://user-images.githubusercontent.com/100203113/156812987-ee3faa17-7c36-4812-bd11-7e29dc3548db.png)
+
