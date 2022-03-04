@@ -1,0 +1,5 @@
+SELECT country_code, indicator_name, value , year
+FROM `bigquery-public-data.world_bank_wdi.indicators_data`
+where country_code = 'IND' 
+and indicator_name like '%Energy imports%' 
+order by year ASC 
