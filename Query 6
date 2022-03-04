@@ -1,0 +1,6 @@
+SELECT country_code, indicator_name, value , year, indicator_code
+FROM `bigquery-public-data.world_bank_wdi.indicators_data`
+where country_code = 'IND'
+and indicator_name like '%agriculture%'
+and indicator_code = 'SL.AGR.EMPL.ZS' 
+order by year ASC
