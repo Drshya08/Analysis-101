@@ -1,0 +1,12 @@
+SELECT a.country_code, a.series_code , b.short_name, c.indicator_name, c.value, c.year 
+FROM `bigquery-public-data.world_bank_wdi.country_series_definitions` a,
+`bigquery-public-data.world_bank_wdi.country_summary` b,
+`bigquery-public-data.world_bank_wdi.indicators_data` c, 
+`bigquery-public-data.world_bank_wdi.series_summary` d 
+where a.country_code= 'IND'
+ and a.country_code = b.country_code 
+ and a.country_code = c.country_code 
+ and c.indicator_name = d.indicator_name 
+ and c.indicator_name like '%Time required to start a business (days)%' 
+ and a.series_code = 'SP.POP.TOTL'
+ 
