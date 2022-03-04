@@ -1,0 +1,10 @@
+SELECT
+  DISTINCT a.country_code, b.country_name, b.indicator_code, b.indicator_name, b.value
+
+FROM
+  `bigquery-public-data.world_bank_wdi.country_series_definitions` a
+INNER JOIN
+  `bigquery-public-data.world_bank_wdi.indicators_data` b
+ON
+  a.country_code=b.country_code 
+  where indicator_name like '%employment%'
