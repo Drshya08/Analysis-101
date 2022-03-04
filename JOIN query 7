@@ -1,3 +1,0 @@
-SELECT distinct a.country_code, b.currency_unit, b.short_name
-FROM `bigquery-public-data.world_bank_wdi.country_series_definitions` a
-inner join `bigquery-public-data.world_bank_wdi.country_summary` b on a.country_code=b.country_code 
