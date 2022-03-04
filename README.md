@@ -16,3 +16,7 @@ Query 3: Time require to start a business in India
 Query 4: India's Energy import from 1971-2014
 
 ![Screen Shot 2022-03-04 at 10 23 15 PM](https://user-images.githubusercontent.com/100203113/156805784-12b93b8e-4d1e-4546-8f11-444d715f845e.png)
+
+Query 5: Filtering all the agriculture indicators for India 
+
+![Screen Shot 2022-03-04 at 10 49 30 PM](https://user-images.githubusercontent.com/100203113/156811255-999d22c2-3b56-4619-bb4e-5119c1f0c229.png)
